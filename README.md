@@ -1,6 +1,8 @@
 CI_Context
 ==========
 
+__Version 0.1__
+
 CI_Context vous permet de connecter facilement vos librairies a l'environnement CodeIgniter.
 
 Synospys
